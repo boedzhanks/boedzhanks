@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hardiansyah</h1>
+<h1 align="center">Hi 👋, I'm Hardiansyah Ramadhani</h1>
 <h3 align="center">Pelajar di SMAN 96 Jakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boedzhanks&label=Profile%20views&color=0e75b6&style=flat" alt="boedzhanks" /> </p>
