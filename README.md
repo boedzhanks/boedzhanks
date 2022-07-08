@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Shinoa
 
-![Banner]("Hiiragi.Shinoa.full.1936752.jpg" width="250") <br />
+![Banner](Hiiragi.Shinoa.full.1936752.jpg) <br />
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/shinoahiiraginime)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=6283807175250&text=Halo%20Bang&app_absent=0)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Boedzhanks)
@@ -15,8 +15,6 @@
 - Learning Language(s): &nbsp;
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  
-  ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=blue)
 
 - Frameworks: &nbsp;
 
