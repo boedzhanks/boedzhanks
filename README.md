@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Boedzhanks
 
 <p align="center">
-<img src="https://media.tenor.com/SBJ4216QNzkAAAPs/hu-tao-genshin-impact.webm" />
+<video src="https://media.tenor.com/SBJ4216QNzkAAAPo/hu-tao-genshin-impact.mp4" />
 </p>
 
 ## SPOTIFY
