@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Boedzhanks
 
 <p align="center">
-<img src="https://tenor.com/glNKapUDytN.gif](https://tenor.com/id/view/hu-tao-genshin-impact-liyue-peace-double-peace-gif-5193346203891283769" />
+<img src="https://tenor.com/glNKapUDytN.gif" />
 </p>
 
 ## SPOTIFY
