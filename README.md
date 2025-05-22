@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Boedzhanks
 
 <p align="center">
-<img src="https://media1.tenor.com/m/42A6vafhlsEAAAAC/hu-tao-loop.gif" />
+<img src="https://tenor.com/glNKapUDytN.gif" />
 </p>
 
 ## SPOTIFY
